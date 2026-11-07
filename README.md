@@ -83,5 +83,5 @@ Built an interactive dashboard featuring three core views:
 
 ## Author
 
-**Ranjeet Gupta**  
+**Akash Kumar Rakshit**  
 Data Analyst | Python · SQL · Power BI
